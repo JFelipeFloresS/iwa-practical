@@ -7,11 +7,11 @@
             </entry>
             <entry>
                 <item>Vodka</item>
-                <price>15.0</price>
+                <price>15.00</price>
             </entry>
             <entry vegetarian="true">
                 <item>Kombucha</item>
-                <price>2.0</price>
+                <price>2.00</price>
             </entry>
         </section>
         <section name="Side Dishes">
@@ -25,7 +25,7 @@
             </entry>
             <entry vegetarian="true">
                 <item>Rice</item>
-                <price>4.0</price>
+                <price>4.00</price>
             </entry>
         </section>
         <section name="Breakfast">
@@ -35,11 +35,11 @@
             </entry>
             <entry>
                 <item>Poached Eggs</item>
-                <price>8.0</price>
+                <price>8.00</price>
             </entry>
             <entry vegetarian="true">
                 <item>French Toast</item>
-                <price>2.0</price>
+                <price>2.00</price>
             </entry>
         </section>
         <section name="Lunch">
@@ -49,11 +49,11 @@
             </entry>
             <entry>
                 <item>Soup of the day</item>
-                <price>6.0</price>
+                <price>6.00</price>
             </entry>
             <entry vegetarian="true">
                 <item>Falaffel</item>
-                <price>10.0</price>
+                <price>10.00</price>
             </entry>
         </section>
         <section name="Dinner">
@@ -63,11 +63,11 @@
             </entry>
             <entry>
                 <item>Sushi</item>
-                <price>15.0</price>
+                <price>15.00</price>
             </entry>
             <entry vegetarian="true">
                 <item>Shakshuka</item>
-                <price>15.0</price>
+                <price>15.00</price>
             </entry>
         </section>
     </menu>
