@@ -104,7 +104,7 @@
 						</tr>
 					</thead>
 					<tbody>
-						<xsl:for-each select="Answer">
+						<xsl:for-each select="//Section">
 							<tr>
 								<td colspan="3">
 									<xsl:value-of select="Answer"/>
